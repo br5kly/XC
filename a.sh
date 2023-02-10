@@ -1,2 +1,2 @@
 mv source destination
-mv s.py sdcard/
+mv s.py /sdcard
